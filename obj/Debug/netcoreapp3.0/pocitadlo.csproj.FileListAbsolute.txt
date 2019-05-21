@@ -1,0 +1,12 @@
+C:\Users\Daník\Desktop\pocitadlo\obj\Debug\netcoreapp3.0\pocitadlo.csprojAssemblyReference.cache
+C:\Users\Daník\Desktop\pocitadlo\obj\Debug\netcoreapp3.0\pocitadlo.csproj.CoreCompileInputs.cache
+C:\Users\Daník\Desktop\pocitadlo\obj\Debug\netcoreapp3.0\pocitadlo.AssemblyInfoInputs.cache
+C:\Users\Daník\Desktop\pocitadlo\obj\Debug\netcoreapp3.0\pocitadlo.AssemblyInfo.cs
+C:\Users\Daník\Desktop\pocitadlo\bin\Debug\netcoreapp3.0\pocitadlo.exe
+C:\Users\Daník\Desktop\pocitadlo\bin\Debug\netcoreapp3.0\pocitadlo.deps.json
+C:\Users\Daník\Desktop\pocitadlo\bin\Debug\netcoreapp3.0\pocitadlo.runtimeconfig.json
+C:\Users\Daník\Desktop\pocitadlo\bin\Debug\netcoreapp3.0\pocitadlo.runtimeconfig.dev.json
+C:\Users\Daník\Desktop\pocitadlo\bin\Debug\netcoreapp3.0\pocitadlo.dll
+C:\Users\Daník\Desktop\pocitadlo\bin\Debug\netcoreapp3.0\pocitadlo.pdb
+C:\Users\Daník\Desktop\pocitadlo\obj\Debug\netcoreapp3.0\pocitadlo.dll
+C:\Users\Daník\Desktop\pocitadlo\obj\Debug\netcoreapp3.0\pocitadlo.pdb
